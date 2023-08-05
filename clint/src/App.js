@@ -19,7 +19,7 @@ function App() {
     <BrowserRouter>
 <Navbar/>
 <Routes>
-  <Route path='/PrimeVideo' element={<Login/>}/>
+  <Route path='/project2' element={<Login/>}/>
   <Route path='/home' element={<Home/>}/>
   <Route path='/movie' element={<Movie/>}/>
   <Route path='/signup' element={<Signup/>}/>
