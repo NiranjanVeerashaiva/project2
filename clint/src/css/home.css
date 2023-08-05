@@ -1,0 +1,125 @@
+.body1{
+    background:linear-gradient(to right ,black 45%,transparent 88%), url(https://m.media-amazon.com/images/G/01/support_images/GUID-A5E374A8-16DA-4B39-8E3F-3F3B34E831FB=2=en-US=Normal.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bodytext h1{
+    color: white;
+    font-weight: 200;
+}
+.bodytext h4{
+    margin: 20px 0px;
+    color: white;
+}
+.bodytext{
+    padding-top: 70px;
+    transform: translate(50px);
+    width: 550px;
+    text-align: start;
+}
+.bodytext button{
+    width: 250px;
+    height: 40px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    background-color: rgb(41, 122, 133);
+}
+.body2{
+    background-image:linear-gradient(to left, #000 45%, transparent 60%), url(https://cdn.mos.cms.futurecdn.net/NHNFJ3npPLC4dGGrRcuXy-1200-80.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+
+}
+.bodytext2 {
+    padding-top: 100px;
+    transform: translate(600px);
+    width: 600px;
+    text-align: start;
+}
+.bodytext2 h1{
+    color: white;
+    font-weight: 200;
+}
+.bodytext2 h4{
+    margin: 20px 0px;
+    color: white;
+}
+.bodytext2 button{
+    width: 250px;
+    height: 40px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    background-color: rgb(41, 122, 133);
+}
+.body3{
+    margin-top: -10px;
+    height: 500px;
+}
+.body3lefts{
+    padding: 20px 50px;
+    text-align: start;
+    transform: translate(50px);
+}
+.body3lefts h1{
+    font-weight: 200;
+    color: black;
+}
+.body3lefts h4{
+    font-weight: 200;
+    color: black;
+}
+.body3rights{
+   padding: 20px 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.body3rights button{
+    height: 100px;
+    width: 150px;
+    margin: 5px 5px;
+    border: none;
+  
+    background: linear-gradient(to left, rgb(74, 87, 112) 40%,rgba(0, 119, 255, 0.387) );
+    color: white;
+}
+.body3rights button:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px black;
+}
+.body4{
+    background-image:linear-gradient(to left ,#000 55%,transparent 68%), url(https://muvit.in/wp-content/uploads/2022/04/Remote-Control-2-2.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bodytext4 {
+    padding-top: 100px;
+    transform: translate(600px);
+    width: 600px;
+    text-align: start;
+}
+.bodytext4 h1{
+    color: white;
+    font-weight: 200;
+}
+.bodytext4 h4{
+    margin: 20px 0px;
+    color: white;
+    font-weight: 200;
+}
+.bodytext4 button{
+    width: 250px;
+    height: 40px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    background-color: rgb(41, 122, 133);
+}
+

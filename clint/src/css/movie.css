@@ -1,0 +1,67 @@
+.movie1 img{
+    height: 400px;
+    background-color: black;
+}
+.movie1 h2{
+    color: white;
+    text-align: start;
+}
+.movie1{
+    background-color: black;
+}
+.movlist h3{
+color: white;
+text-align: start;
+}
+.mov img{
+    height: 170px ;
+    width: 280px;
+    border-radius: 0px;
+}
+.mov h4{
+    color: white;
+    text-align: start;
+  
+}
+.mov h5 {
+    color: white;
+    text-align: start;
+  
+    transform: translate(0px);
+}
+.ml{
+    display: none;
+}
+.n{
+    display: none;
+}
+.mov:hover{
+    transform: scale(1.05);
+    transform: scale(1.05);
+    .n{
+        display: flow-root;
+    }
+    /* .ml{
+        display: flow-root;
+        transform: scale(1.05);
+        color: white;
+        text-align: start;
+        transform: translate(4px);
+    } */
+}
+.movielistss{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.mov{
+    width: 280px;
+    margin: 3px 10px;
+   
+}
+.mov button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(86, 86, 146);
+    color: white;
+}

@@ -1,0 +1,29 @@
+.login{
+    height: 400px;
+    width: 600px;
+    background-color: rgba(128, 128, 128, 0.373);
+   box-shadow: 0px 0px 50px black;
+   text-align: center;
+    margin-top: 40px;
+    transform: translate(300px);
+}
+.login form{
+    width: 200px;
+    text-align: start;
+    padding-top: 70px;
+    transform: translate(150px);
+}
+.login input{
+    margin: 15px 0px;
+    border: none;
+    width: 300px;
+    height: 30px;
+}
+.login button{
+    border: none;
+    background-color: black;
+    color: white;
+}
+.login a{
+    text-decoration: none;
+}

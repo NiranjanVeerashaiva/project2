@@ -1,0 +1,215 @@
+.crime{
+    background-color: black;
+    height: 100vh;
+}
+.action{
+    background-color: black;
+    height: 100vh;
+}
+.thriller{
+    background-color: black;
+    height: 100vh;
+}
+.comedy{
+    background-color: black;
+    height: 100vh;
+}
+.action h3{
+color: white;
+text-align: start;
+}
+.ac img{
+    height: 170px ;
+    width: 280px;
+}
+.ac h4{
+    color: white;
+    text-align: start;
+  
+}
+.ac h5 {
+    color: white;
+    text-align: start;
+  
+    transform: translate(0px);
+}
+.ml{
+    display: none;
+}
+.ac:hover{
+    transform: scale(1.05);
+    transform: scale(1.05);
+    .n{
+        display: none;
+    }
+    .ml{
+        display: flow-root;
+        transform: scale(1.05);
+        color: white;
+        text-align: start;
+        transform: translate(4px);
+       
+       
+    }
+}
+.action{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.ac{
+    width: 280px;
+    margin: 3px 10px;
+   
+}
+
+
+
+.crime h3{
+    color: white;
+    text-align: start;
+    }
+    .cr img{
+        height: 170px ;
+        width: 280px;
+    }
+    .cr h4{
+        color: white;
+        text-align: start;
+      
+    }
+    .cr h5 {
+        color: white;
+        text-align: start;
+      
+        transform: translate(0px);
+    }
+    .ml{
+        display: none;
+    }
+    .cr:hover{
+        transform: scale(1.05);
+        transform: scale(1.05);
+        .n{
+            display: none;
+        }
+        .ml{
+            display: flow-root;
+            transform: scale(1.05);
+            color: white;
+            text-align: start;
+            transform: translate(4px);
+           
+           
+        }
+    }
+    .crime{
+        display: flex;
+        flex-wrap: wrap;
+    
+    }
+    .cr{
+        width: 280px;
+        margin: 3px 10px;
+       
+    }
+
+
+    .thriller h3{
+        color: white;
+        text-align: start;
+        }
+        .th img{
+            height: 170px ;
+            width: 280px;
+        }
+        .th h4{
+            color: white;
+            text-align: start;
+          
+        }
+        .th h5 {
+            color: white;
+            text-align: start;
+          
+            transform: translate(0px);
+        }
+        .ml{
+            display: none;
+        }
+        .th:hover{
+            transform: scale(1.05);
+            transform: scale(1.05);
+            .n{
+                display: none;
+            }
+            .ml{
+                display: flow-root;
+                transform: scale(1.05);
+                color: white;
+                text-align: start;
+                transform: translate(4px);
+               
+               
+            }
+        }
+        .thriller{
+            display: flex;
+            flex-wrap: wrap;
+        
+        }
+        .th{
+            width: 280px;
+            margin: 3px 10px;
+           
+        }
+
+
+        .comedy h3{
+            color: white;
+            text-align: start;
+            }
+            .co img{
+                height: 170px ;
+                width: 280px;
+            }
+            .co h4{
+                color: white;
+                text-align: start;
+              
+            }
+            .co h5 {
+                color: white;
+                text-align: start;
+              
+                transform: translate(0px);
+            }
+            .ml{
+                display: none;
+            }
+            .co:hover{
+                transform: scale(1.05);
+                transform: scale(1.05);
+                .n{
+                    display: none;
+                }
+                .ml{
+                    display: flow-root;
+                    transform: scale(1.05);
+                    color: white;
+                    text-align: start;
+                    transform: translate(4px);
+                   
+                   
+                }
+            }
+            .comedy{
+                display: flex;
+                flex-wrap: wrap;
+            
+            }
+            .co{
+                width: 280px;
+                margin: 3px 10px;
+               
+            }

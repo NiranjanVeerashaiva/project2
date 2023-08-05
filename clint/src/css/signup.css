@@ -1,0 +1,31 @@
+.signup{
+    height: 400px;
+    width: 600px;
+    background-color: rgba(26, 109, 125, 0.373);
+   box-shadow: 0px 0px 50px rgba(26, 109, 125, 0.373);
+   border-radius: 5px;
+   text-align: center;
+    margin-top: 40px;
+    transform: translate(300px);
+}
+
+.signup form{
+    width: 200px;
+    text-align: start;
+    padding-top: 70px;
+    transform: translate(150px);
+}
+.signup input{
+    margin: 15px 0px;
+    border: none;
+    width: 300px;
+    height: 30px;
+}
+.signup button{
+    border: none;
+    background-color: black;
+    color: white;
+}
+.signup a{
+    text-decoration: none;
+}
