@@ -10,6 +10,7 @@ const User=require('./model/user')
 const Movie=require('./model/movielist')
 const Favorite=require('./model/fav')
 
+app.use(express.static(path.join(__dirname, './clint/build')))
 app.use(express.json())
 app.use(cors())
 app.use(express.urlencoded({extended:false}))
@@ -19,6 +20,11 @@ app.use(express.urlencoded({extended:false}))
 const dbURL="mongodb://localhost:27017/User"
 mongoose.connect(dbURL).then(()=>{
     console.log("connected to database");
+})
+
+
+app.get('*',(req,res)=>{
+    res.sendFile(path.join(__dirname, './clint/build/index.html'))
 })
 
 //signup
